@@ -1,0 +1,38 @@
+台灣第四台,#genre#
+台湾25,http://61.221.81.93:8520/hls/65/807/ch843.m3u8
+starWold,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
+Movies gold,http://61.221.81.93:8524/hls/65/807/ch843.m3u8
+卫视电影台,http://61.221.81.93:8523/hls/65/807/ch843.m3u8
+东森幼幼,http://61.221.81.93:8525/hls/65/807/ch843.m3u8
+八大综合,http://61.221.81.93:8530/hls/65/807/ch843.m3u8
+八大第一,http://61.221.81.93:8531/hls/65/807/ch843.m3u8
+年代新闻,http://61.221.81.93:8532/hls/65/807/ch843.m3u8
+寰宇新闻,http://61.221.81.93:8513/hls/65/807/ch843.m3u8
+东森新闻,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
+ELEVEN1,http://61.221.81.93:8534/hls/65/807/ch843.m3u8
+ELEVEN2,http://61.221.81.93:8539/hls/65/807/ch843.m3u8
+八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
+中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
+八大第一,http://61.221.81.93:8078/hls/38/80/gtvfirst.m3u8
+东森戏剧,http://61.221.81.93:8078/hls/34/80/ebcdrama.m3u8
+NHK,http://61.221.81.93:8078/hls/32/80/nhk.m3u8
+HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+国家地理,http://61.221.81.93:8078/hls/12/80/ngc.m3u8
+年代MUCH,http://61.221.81.93:8078/hls/27/80/much.m3u8
+中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
+八大综合台,http://61.221.81.93:8078/hls/38/80/gtv.m3u8
+东森综合,http://61.221.81.93:8078/hls/34/80/ebc.m3u8
+民视,http://61.221.81.93:8078/hls/40/80/ftv.m3u8
+ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+东森新闻,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
+民视新闻,http://61.221.81.93:8078/hls/40/80/ftvnews.m3u8
+cinemax,http://61.221.81.93:8078/hls/22/80/cinemax.m3u8
+starWold,http://61.221.81.93:8078/hls/11/80/fox.m3u8
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+Bloomberg,http://61.221.81.93:8078/hls/43/80/bloomber.m3u8
+babytv,http://61.221.81.93:8078/hls/35/80/babytv.m3u8
+AXN,http://61.221.81.93:8078/hls/32/80/axn.m3u8
+CNBC,http://61.221.81.93:8078/hls/24/80/cnbc90.m3u8
+discovery,http://61.221.81.93:8078/hls/31/80/discovery.m3u
